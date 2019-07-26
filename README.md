@@ -1,2 +1,6 @@
 # parkir
-Rest API untuk mengelola data masukan sebuah parkir mobil
+Rest API untuk mengelola data masukan sebuah parkir mobil. 
+
+Menggunakan Framework CodeIgniter3 dan database MySql.
+
+# Screen Shoot Test
